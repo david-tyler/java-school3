@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : postfix.dtd
+    Created on : 2019/10/23
+    Author     : 
+    Description:
+        Purpose of the document follows.
+-->
+
+
+<!ELEMENT root ANY>
+<!ATTLIST root version CDATA #REQUIRED>
